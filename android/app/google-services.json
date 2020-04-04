@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868851842910",
+    "firebase_url": "https://allclinics-3f2f9.firebaseio.com",
+    "project_id": "allclinics-3f2f9",
+    "storage_bucket": "allclinics-3f2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868851842910:android:2f8e3dba35c1d4ddda99cf",
+        "android_client_info": {
+          "package_name": "com.example.allclinics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868851842910-k0ghkhh9tah2c8l7d9deq1dg0a4ac8f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allclinics",
+            "certificate_hash": "e600d24b73ce3509d97a3e127fd08fc5c48af5a6"
+          }
+        },
+        {
+          "client_id": "868851842910-9fdqsh531hr7k5hpuauscd87aldhvgsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RwZ62Q2nV7_2sV_iBKACYnGer2YRMm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868851842910-9fdqsh531hr7k5hpuauscd87aldhvgsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

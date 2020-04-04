@@ -1,0 +1,5 @@
+lib/app/modules/detalhe-profissional/detalhe-profissional_module.dart
+lib/app/modules/detalhe-profissional/detalhe-profissional_page.dart
+test/app/modules/detalhe-profissional/detalhe-profissional_page_test.dart
+lib/app/modules/detalhe-profissional/detalhe-profissional_controller.dart
+test/app/modules/detalhe-profissional/detalhe-profissional_controller_test.dart
